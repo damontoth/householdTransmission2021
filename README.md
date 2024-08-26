@@ -6,4 +6,4 @@ The data and R code in these files produce the results in the manuscript "Model-
 
 "getMLE.R" contains R code that produces the maximum likelihood estimates found in the Results section and Supplementary Information of the manuscript. The code runs one set of model estimates at a time, and the model specification can be changed where indicated in the code using one of the model names listed in the file “resultTableSettings.txt.” The code also makes use of the commands and functions defined in the files “specifyModel.R,” “dataPreparationFunctions.R,” “transmissionPrepFunctions.R,” and “MLEfunctions.R.”
 
-“Figure1transmissionMechanisms.R” and “Figure2infectionRiskByAge.R” contain R code that produced Figures 1 and 2 in the manuscript.
+“Figure2transmissionMechanisms.R” and “Figure3infectionRiskByAge.R” contain R code that produced Figures 2 and 3 in the manuscript.
